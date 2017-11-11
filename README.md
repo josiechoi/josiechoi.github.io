@@ -17,6 +17,12 @@ data=pd.read_csv("data.csv")
 
 ```
 
+### R
+
+Some random stuff that could be useful
+
+Recent R Packages (https://www.r-bloggers.com/recent-r-data-packages/)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
