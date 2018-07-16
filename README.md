@@ -9,5 +9,7 @@ I have developed interests in data analysis. I have completed three career track
 I am a current part-time graduate student at Athabasca University. My focus area for my Masters of Interdisciplinary Studies (MAIS) are Cultural Studies and Educational Studies. I should complete the program at the end of 2018. 
 
 More about me online: 
+
 <a href="https://www.linkedin.com/in/josephinechoi/">LinkedIn</a>
+
 <a href="https://github.com/josiechoi">Github</a>
