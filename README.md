@@ -10,3 +10,4 @@ I am a current part-time graduate student at Athabasca University. My focus area
 
 More about me online: 
 <a href="https://www.linkedin.com/in/josephinechoi/">LinkedIn</a>
+<a href="https://github.com/josiechoi">Github</a>
