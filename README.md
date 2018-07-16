@@ -1,4 +1,4 @@
-## Josephine
+## Josephine Choi
 
 ###About
 
