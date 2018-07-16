@@ -1,6 +1,6 @@
 ## Josephine Choi
 
-###About
+### About
 
 Early in my career, I worked in circulation department in a fast-paced public library for 4+ years, followed by 4+ years as a library technician in a high school. Since 2012, I have been working in Ryerson University Library, focusing on serials, acquisition, and electronic resources.
 
