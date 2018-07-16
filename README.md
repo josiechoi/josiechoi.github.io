@@ -1,34 +1,7 @@
-## Got a website. Need a purpose 
+## About
 
-This is a personal website to test out Jekyll. As a search for a purpose for this site, I shall put some of the resources that I find useful. 
-
-### Python 
-
-Some random python code 
-
-
-
-```markdown
-Syntax highlighted code block
-
-import pandas as pd
-
-data=pd.read_csv("data.csv")
-
-```
-
-### R
-
-Some random stuff that could be useful
-
-Recent R Packages (https://www.r-bloggers.com/recent-r-data-packages/)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-
-
-### Support or Contact
+Early in my career, I worked in circulation department in a fast-paced public library for 4+ years, followed by 4+ years as a library technician in a high school. Since 2012, I have been working in Ryerson University Library, focusing on serials, acquisition, and electronic resources. 
+I have developed interests in data analysis. I have completed three career tracks( the Python programmer, Data Analysis with Python, and Data Scientist with Python) via Datacamp. Currently, I am half way through a Data Analytics, Big Data, and Predictive Analysis certificate program at Ryerson University. However, I have put the certificate program on hold so that I can finish my graduate program (MAIS). 
+I am a current part-time graduate student at Athabasca University. My focus area for my Masters of Interdisciplinary Studies (MAIS) are Cultural Studies and Educational Studies. I should complete the program at the end of 2018. 
 
 
