@@ -1,11 +1,11 @@
 title: "Josephine Choi"
 description: "A data enthusiast, a reader, a volunteer"
 about: "a personal blog"
-location: "Toronto, Canada"
+location: "Toronto"
 email: write.to.josie@gmail.com
 baseurl: "/"
 
-url: "https://josiechoi.github.io" # replace by your site's url
+url: "josiechoi.github.io" # replace by your site's url
 twitter_username: adichotomist
 github_username:  josiechoi
 author: "Josephine Choi"
