@@ -11,13 +11,13 @@ github_username:  josiechoi
 author: "Josephine Choi"
 
 # google analytics tracking code, please change the value
-g_analytics: ""
+#g_analytics: ""
 
 # add your disqus to enable comments
-disqus_shortname:
+#disqus_shortname:
 
 # add your disqus to enable comments
-disqus_shortname:
+#disqus_shortname:
 
 # language settings
 isolang: en
