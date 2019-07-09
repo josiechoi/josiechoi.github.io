@@ -1,9 +1,9 @@
-- name: project 1
+- name: Usage Data Analysis Using Python
+  link: "https://github.com/josiechoi/ezproxy-student"
+  description: " After final data integration and report generation, we are able to see the use of electronic resources by departments, by student profiles (year, program), thus provide collection development support to subject liaisons. This additional context is useful for decision making, marketing, and communication. It helps to answer questions concerning collection development, such as, what are the top 10 most popular resources used by one certain department? Which student group would be most affected with the cancellation of one certain resource? Or how does a certain department use the resources they requested? etc. "
+- name: Using Monte Carlo Simulation for Library Science
+  link: "https://github.com/josiechoi/MonteCarloMod"
+  description: "Monte Carlo simulation is a methodology to build predictive model based on a range of possible outcomes. It acknowledges the difficulties in predicting outcome based on known variables; rather than relying on known facts, it tackles uncertainty by simulating a large number set of scenarios and then adjust the data with probabilities. While it is widely used in research, finance and operation management, it is relatively new in the field of library science. In this presentation, we explore the use of this technique to predict the changes in pricing models in print and electronic journals/databases by building a model to predict usd:cad foreign exchange rate. "
+- name: Keeping Track of All: Pivot Tables in Electronic Resources Management
   link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 2
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 3
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+  description: "Keeping up with the expenditures of hundreds of electronic resources is no simple task, the fluctuations of the currency exchange rate makes it even more complicated as most of our invoices are in U.S dollars. For the past few years, we started creating pivot table with all the information recorded in the spreadsheet, such as new electronic resources requests, decisions, cancellations, payment information for consortia and direct subscriptions, etc. These tables have become a powerful tool in generating various sorts of reports and has greatly increased the efficiency of electronic resources workflow"
