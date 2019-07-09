@@ -1,3 +1,7 @@
+Personal website. Forked from 
+https://github.com/lukas-h/material-theme
+
+
 # light material jekyll theme
 a lightweight jekyll blogging theme, perfect for your personal page.
 
